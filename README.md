@@ -6,8 +6,8 @@
 
 1. Скачать файл "tensorflow-server.tar" 
 2. Открыть WindowsPowerShell
-3. Ввести команду
-  docker import tensorflow-server.tar
+3. Ввести команду <br>
+  <code> docker import tensorflow-server.tar </code>
 4.
 
 
