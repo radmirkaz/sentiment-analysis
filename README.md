@@ -6,16 +6,16 @@
 
 1. Скачать zip файл с яндекс диска
 2. Установить Docker и убедиться в том, что python имеет 3+ версию
-3. Также необходимо выполнить эти команды в консоли
-  <code>pip install numpy <br>
-  pip install requests <br>
-  pip install nltk <br>
-  pip install pymorphy2 <br>
-  pip install gensim <br>
-  pip install tqdm <br>
-  pip install pandas <br>
-  pip install logging <br>
-  pip install contextlib </code><br>
+3. Также необходимо выполнить эти команды в консоли <br>
+  <code>pip install numpy </code><br>
+  <code>pip install requests </code><br>
+  <code>pip install nltk </code><br>
+  <code>pip install pymorphy2 </code><br>
+  <code>pip install gensim </code><br>
+  <code>pip install tqdm </code><br>
+  <code>pip install pandas </code><br>
+  <code>pip install logging </code><br>
+  <code>pip install contextlib </code><br>
 
 
 #### Запуск сервера
