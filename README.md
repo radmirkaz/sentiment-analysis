@@ -5,6 +5,7 @@
 ### Инструкция:
 
 1. Скачать zip файл с яндекс диска
+2. Установить Docker и убедиться в том, что python имеет 3+ версию
 
 #### Запуск сервера
 1. Скачать файл "tensorflow-server.tar" 
@@ -15,5 +16,8 @@
   <code> docker run -it -v C:\path\to\your\project folder:/project folder -p 8601:8601 --entrypoint /bin/bash tensorflow/serving </code> <br>
 Сервер запущен!
 
-
+#### Получение предсказаний
+1. Открыть cmd в той же папке где и файл "predict.py"
+2. Ввести команду
+  <code> python3 predict.py ваш текст для предсказания </code> <br>
 
