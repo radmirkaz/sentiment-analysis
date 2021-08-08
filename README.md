@@ -6,7 +6,17 @@
 
 1. Скачать zip файл с яндекс диска
 2. Установить Docker и убедиться в том, что python имеет 3+ версию
-3. Также необходимо запустить файл requirements.sh для установки необходимых библиотек
+3. Также необходимо выполнить эти команды в консоли
+  <code>pip install numpy <br>
+  pip install requests <br>
+  pip install nltk <br>
+  pip install pymorphy2 <br>
+  pip install gensim <br>
+  pip install tqdm <br>
+  pip install pandas <br>
+  pip install logging <br>
+  pip install contextlib </code><br>
+
 
 #### Запуск сервера
 1. Скачать файл "tensorflow-server.tar" 
