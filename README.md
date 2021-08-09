@@ -6,7 +6,7 @@
 
 1. Скачать zip файл с яндекс диска
 2. Установить Docker и убедиться в том, что python имеет 3+ версию
-3. pip install -r requirements.txt
+3. <code> pip install -r requirements.txt </code>
   
 #### Запуск сервера
 1. Скачать файл "tensorflow-server.tar" 
