@@ -14,7 +14,7 @@
 3. Ввести команды <br>
   <code> docker load -i tensorflow-serving.tar </code> <br>
   <code> docker run -it -v C:\path\to\your\project folder:/project folder -p 8601:8601 --entrypoint /bin/bash tensorflow/serving </code> <br>
-  <code> tensorflow_model_server --rest_api_port=8601 --model_name=senti_model --model_base_path=/project folder/saved_models/ </code> <br>
+  <code> tensorflow_model_server --rest_api_port=8601 --model_name=senti_model --model_base_path=/project folder/saved_model/ </code> <br>
 Сервер запущен!
 
 #### Получение предсказаний
