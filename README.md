@@ -6,18 +6,8 @@
 
 1. Скачать zip файл с яндекс диска
 2. Установить Docker и убедиться в том, что python имеет 3+ версию
-3. Также необходимо выполнить эти команды в консоли <br>
-  <code>pip install numpy </code><br>
-  <code>pip install requests </code><br>
-  <code>pip install nltk </code><br>
-  <code>pip install pymorphy2 </code><br>
-  <code>pip install gensim </code><br>
-  <code>pip install tqdm </code><br>
-  <code>pip install pandas </code><br>
-  <code>pip install logging </code><br>
-  <code>pip install contextlib </code><br>
-
-
+3. pip install -r requirements.txt
+  
 #### Запуск сервера
 1. Скачать файл "tensorflow-server.tar" 
 2. Открыть WindowsPowerShell
